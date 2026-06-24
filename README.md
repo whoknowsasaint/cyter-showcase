@@ -46,26 +46,28 @@
 ---
 
 
+Demo
 
-## Demo
+Product Walkthrough
 
-### Product Walkthrough
+A complete 2-minute walkthrough of Cryter's core functionality and administrative workflows.
 
-The repository includes a full walkthrough video covering:
+The demo covers:
 
-- Authentication
-- Email verification
+- Authentication and account access
 - Wallet management
-- KYC submission and review
+- KYC submission and review workflow
 - Investment creation
 - Trading pools
 - Withdrawal processing
 - Notification system
 - Admin control panel
 
-The video demonstrates the platform's core workflows and production functionality.
+The walkthrough demonstrates the platform's production-ready architecture, user experience, and operational workflows from both the user and administrator perspectives.
 
-[🎥 Watch Demo Video](./demo/cryter-demo.mp4)
+🎥 Watch Demo (2 min)
+
+https://drive.google.com/file/d/1x_wG7jmWA1y4jquJrCGurgbnbIdZa6HR/view?usp=sharing
 
 ---
 
